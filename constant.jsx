@@ -1,0 +1,1 @@
+export const VITE_API_BASE_URL="https://movie-api-project-2-full-stack-2025.onrender.com/api";
